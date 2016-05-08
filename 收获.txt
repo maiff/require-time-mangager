@@ -1,0 +1,7 @@
+1.require原理
+2.引用主模块的
+3.主模块应用，其他都能用？
+4.$装饰者模式
+5.remove
+6.click里面的this指向
+7.localStroage中能存事件对象？
